@@ -1,0 +1,32 @@
+#container{
+    margin: 57px auto;
+    border: inset 10px darkgrey;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 36px;
+    width: 50%;
+    font-size: 45px;
+    border-radius:5px
+    }
+
+.box1{
+    height: 50px;
+    width: 100px;
+    font-family:Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.box2{
+    border: groove 10px darkgrey;
+    width: 50%;
+    margin: -58px auto;
+    padding: 33px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    font-size: 34px;
+    color: #911152;
+    font-stretch: ultra-condensed
+}
+
+.icon{
+    font-size:63px
+}
